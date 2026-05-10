@@ -1,0 +1,6 @@
+{
+  "name": "AgendaCraft",
+  "description": "Transform documents into structured meeting agendas with summaries, action items, stakeholders, and smart timing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
